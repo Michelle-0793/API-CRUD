@@ -5,5 +5,19 @@
     "descripcion": "Auriculares inalámbricos con sonido envolvente y cancelación de ruido. Ideales para llamadas, música y gaming.",
     "precio": "$70",
     "cantidadDisponible": "25 unidades"
+  },
+  {
+    "id": 2,
+    "nombre": "Mochila Ecológica EcoBag",
+    "descripcion": "Mochila fabricada con materiales reciclados",
+    "precio": "$34.99",
+    "cantidadDisponible": "15 unidades"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico RGB Pro-Gamer",
+    "descripcion": "Teclado mecánico con retroiluminación RGB personalizable, ideal para gaming con alta precisión y respuesta rápida.",
+    "precio": "$59.99",
+    "cantidadDisponible": "30 unidades"
   }
 ]
